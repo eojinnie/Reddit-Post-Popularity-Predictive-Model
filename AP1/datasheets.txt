@@ -1,0 +1,8 @@
+A. No
+B. No, we are only using the 'title' of reddit posts, and even then, reddit users are anonymous
+C. No, there may be some posts on the data that contains a sensitive topic, but we can exclude them
+D. The dataset itself was drawn with random sampling, and we are going to do another simple random sampling from this dataset (as it contains too many documents) to obtain data, while replacing the ones with sensitive topics with another from the population
+E. The dataset wasn't preprocessed / and not labeled in the way that affects our focus of study
+F. The data has been only labeled from which subreddit it is from, but that's not the main focus of our experiment. Besides, the title of posts wasn never preprocessed
+G. No
+H. Unlike Twitter, Reddit data is open for use of researches and experiments

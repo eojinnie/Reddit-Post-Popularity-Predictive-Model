@@ -1,0 +1,500 @@
+0	Charles	Popular	pregnant : 35 weeks and 3days:-)
+0	Jinnie	Popular	pregnant : 35 weeks and 3days:-)
+1	Charles	Average	badroommates : Roommate tried to lock me out of the house
+1	Jinnie	Average	badroommates : Roommate tried to lock me out of the house
+2	Charles	Not popular	foreskin_restoration : Telling my partner about FR
+2	Jinnie	Average	foreskin_restoration : Telling my partner about FR
+3	Charles	Popular	Cloud9 : Am I the only one disappointed by the Boston Major t-shirt?
+3	Jinnie	Popular	Cloud9 : Am I the only one disappointed by the Boston Major t-shirt?
+4	Charles	Average	sailing : Sailing in the med this summer with two absolute beginners. I only just got my Day Skipper last year
+4	Jinnie	Average	sailing : Sailing in the med this summer with two absolute beginners. I only just got my Day Skipper last year
+5	Charles	Popular	Ghosts : Communication With A Ghost?
+5	Jinnie	Popular	Ghosts : Communication With A Ghost?
+6	Charles	Average	redditdev : Adding my own config options - where to do it and how to read them
+6	Jinnie	Average	redditdev : Adding my own config options - where to do it and how to read them
+7	Charles	Not popular	thewalkingdead : [COMIC] Something I realized with my friends and the series...
+7	Jinnie	Not popular	thewalkingdead : [COMIC] Something I realized with my friends and the series...
+8	Charles	Not popular	DestructiveReaders : [1621] Figs
+8	Jinnie	Not popular	DestructiveReaders : [1621] Figs
+9	Charles	Not popular	tea : Introduction to Tea
+9	Jinnie	Average	tea : Introduction to Tea
+10	Charles	Popular	Shadowverse : Question about the iOS link suspension debacle
+10	Jinnie	Popular	Shadowverse : Question about the iOS link suspension debacle
+11	Charles	Popular	Nest : Nest Secure compatable with current wired system?
+11	Jinnie	Popular	Nest : Nest Secure compatable with current wired system?
+12	Charles	Not popular	vmware : Upload status
+12	Jinnie	Not popular	vmware : Upload status
+13	Charles	Not popular	foreignservice : Language Bonus
+13	Jinnie	Not popular	foreignservice : Language Bonus
+14	Charles	Average	Kava : Repost, fixed mistake. Looking for recommendations on where to get a good sample pack of kava
+14	Jinnie	Average	Kava : Repost, fixed mistake. Looking for recommendations on where to get a good sample pack of kava
+15	Charles	Not popular	scuba : Gas blending question
+15	Jinnie	Popular	scuba : Gas blending question
+16	Charles	Popular	Parahumans : Looking for 1-2 players for Worm Campaign
+16	Jinnie	Popular	Parahumans : Looking for 1-2 players for Worm Campaign
+17	Charles	Not popular	cycling : Car or Bike?
+17	Jinnie	Popular	cycling : Car or Bike?
+18	Charles	Popular	knifeclub : Help! Folks with an Edge Pro Apex please help!
+18	Jinnie	Popular	knifeclub : Help! Folks with an Edge Pro Apex please help!
+19	Charles	Average	MBA : [Profile Review] 24M, Marketing, 3.3 GPA
+19	Jinnie	Popular	MBA : [Profile Review] 24M, Marketing, 3.3 GPA
+20	Charles	Average	Lexus : IS 250 Coolant Flush/Change
+20	Jinnie	Popular	Lexus : IS 250 Coolant Flush/Change
+21	Charles	Average	rails : Structuring rails applications
+21	Jinnie	Average	rails : Structuring rails applications
+22	Charles	Popular	adventuretime : Everybody should read the Enchiridion/ Marcy's Super Secret Scrapbook
+22	Jinnie	Popular	adventuretime : Everybody should read the Enchiridion/ Marcy's Super Secret Scrapbook
+23	Charles	Average	cancer : Seeking advice for my mom with stage 4 pancreatic cancer.
+23	Jinnie	Popular	cancer : Seeking advice for my mom with stage 4 pancreatic cancer.
+24	Charles	Popular	Naruto : How much of Narutos KCM training with Bee is filler?
+24	Jinnie	Popular	Naruto : How much of Narutos KCM training with Bee is filler?
+25	Charles	Average	WayfarersPub : [Event] "What the fuck is going on?"
+25	Jinnie	Popular	WayfarersPub : [Event] "What the fuck is going on?"
+26	Charles	Popular	lacrosse : Cascade R vs CPXR
+26	Jinnie	Popular	lacrosse : Cascade R vs CPXR
+27	Charles	Not popular	Fencing : Foil Build and balancing
+27	Jinnie	Average	Fencing : Foil Build and balancing
+28	Charles	Popular	csshelp : How to make all posts same size?
+28	Jinnie	Popular	csshelp : How to make all posts same size?
+29	Charles	Not popular	DigimonLinkz : [Rant]wtf bandai..screw you
+29	Jinnie	Popular	DigimonLinkz : [Rant]wtf bandai..screw you
+30	Charles	Popular	Meditation : Benefits noticed on just 3 days report.
+30	Jinnie	Average	Meditation : Benefits noticed on just 3 days report.
+31	Charles	Popular	genderqueer : Questioning and feeling like a phony
+31	Jinnie	Popular	genderqueer : Questioning and feeling like a phony
+32	Charles	Average	aznidentity : Getting Woke may have had more negative consequences than positive for me...
+32	Jinnie	Average	aznidentity : Getting Woke may have had more negative consequences than positive for me...
+33	Charles	Not popular	shortscarystories : The Thanksgiving Guest [Thanksgiving 2016]
+33	Jinnie	Not popular	shortscarystories : The Thanksgiving Guest [Thanksgiving 2016]
+34	Charles	Popular	l5r : This Game has no Middle Ground.
+34	Jinnie	Popular	l5r : This Game has no Middle Ground.
+35	Charles	Popular	zootopia : How do you rank Zootopia among your favorite films?
+35	Jinnie	Popular	zootopia : How do you rank Zootopia among your favorite films?
+36	Charles	Popular	volt : Gen1 mpg w/ dead battery?
+36	Jinnie	Popular	volt : Gen1 mpg w/ dead battery?
+37	Charles	Average	churning : Virgin Loft at LAX closing in May
+37	Jinnie	Average	churning : Virgin Loft at LAX closing in May
+38	Charles	Popular	starbucks : how commonly does starbucks hire teens?
+38	Jinnie	Popular	starbucks : how commonly does starbucks hire teens?
+39	Charles	Popular	Rowing : What's a good 2k erg time?
+39	Jinnie	Popular	Rowing : What's a good 2k erg time?
+40	Charles	Average	lifeisstrange : [EP5 SPOILERS] I had one of what I presume to be the biggest twists in the series spoiled for me
+40	Jinnie	Average	lifeisstrange : [EP5 SPOILERS] I had one of what I presume to be the biggest twists in the series spoiled for me
+41	Charles	Popular	lawofattraction : How can i use lOA in my new job?
+41	Jinnie	Popular	lawofattraction : How can i use lOA in my new job?
+42	Charles	Not popular	Lineage2Revolution : Blue Diamonds
+42	Jinnie	Not popular	Lineage2Revolution : Blue Diamonds
+43	Charles	Average	drums : Considering getting this older Gretsch USA and was hoping to get a different opinion
+43	Jinnie	Average	drums : Considering getting this older Gretsch USA and was hoping to get a different opinion
+44	Charles	Popular	BATProject : How will BAT combat ad fraud and ad safety?
+44	Jinnie	Popular	BATProject : How will BAT combat ad fraud and ad safety?
+45	Charles	Popular	Tekken : Best King players to learn from?
+45	Jinnie	Popular	Tekken : Best King players to learn from?
+46	Charles	Average	Warframe : I think my biggest complaint about SOTR would be the Void Trace Cap.
+46	Jinnie	Average	Warframe : I think my biggest complaint about SOTR would be the Void Trace Cap.
+47	Charles	Not popular	awardtravel : Customs at JFK
+47	Jinnie	Average	awardtravel : Customs at JFK
+48	Charles	Not popular	tipofmypenis : Stormy Daniels ad?
+48	Jinnie	Popular	tipofmypenis : Stormy Daniels ad?
+49	Charles	Not popular	instantpot : First time using- fail
+49	Jinnie	Popular	instantpot : First time using- fail
+50	Charles	Average	ComicBookCollabs : Looking for Artist Pure Collaboration and writing critique Sci-Fi Horror Comic
+50	Jinnie	Average	ComicBookCollabs : Looking for Artist Pure Collaboration and writing critique Sci-Fi Horror Comic
+51	Charles	Popular	teenmom : When did you first start watching?
+51	Jinnie	Not popular	teenmom : When did you first start watching?
+52	Charles	Popular	sales : Any recommendations for software companies to sell with?
+52	Jinnie	Popular	sales : Any recommendations for software companies to sell with?
+53	Charles	Average	MaladaptiveDreaming : I think it's funny...
+53	Jinnie	Average	MaladaptiveDreaming : I think it's funny...
+54	Charles	Average	architecture : What are the options when pursuing an architecture degree after getting a drafting degree?
+54	Jinnie	Average	architecture : What are the options when pursuing an architecture degree after getting a drafting degree?
+55	Charles	Average	notebooks : I need help r/notebooks! I need a recommendation
+55	Jinnie	Not popular	notebooks : I need help r/notebooks! I need a recommendation
+56	Charles	Not popular	FargoTV : [Spoilers] The Man Who Wasn’t There (2001) - just saw this Coen Brothers movie for the first time and it definitely clears up one mystery of the Fargo show which is...
+56	Jinnie	Not popular	FargoTV : [Spoilers] The Man Who Wasn’t There (2001) - just saw this Coen Brothers movie for the first time and it definitely clears up one mystery of the Fargo show which is...
+57	Charles	Average	MDMA : OTT crush after rolling with someone - feeling awful
+57	Jinnie	Average	MDMA : OTT crush after rolling with someone - feeling awful
+58	Charles	Average	AndroidAuto : Cheap Android Auto Device
+58	Jinnie	Popular	AndroidAuto : Cheap Android Auto Device
+59	Charles	Popular	Breadit : Water with electrolytes in starter?
+59	Jinnie	Popular	Breadit : Water with electrolytes in starter?
+60	Charles	Average	l5r : Diamond Edition Questions (L5R Hype)
+60	Jinnie	Popular	l5r : Diamond Edition Questions (L5R Hype)
+61	Charles	Popular	Tinder : Is it worth it to swipe?
+61	Jinnie	Popular	Tinder : Is it worth it to swipe?
+62	Charles	Average	WayfarersPub : Shion acquires her meal and sits down.
+62	Jinnie	Not popular	WayfarersPub : Shion acquires her meal and sits down.
+63	Charles	Average	PHPhelp : Can't get shell_exec to run shell script that runs an ssh command.
+63	Jinnie	Average	PHPhelp : Can't get shell_exec to run shell script that runs an ssh command.
+64	Charles	Popular	residentevil : Only about halfway through but I gotta say [SPOILER UP TO 3RD BOSS FIGHT]
+64	Jinnie	Average	residentevil : Only about halfway through but I gotta say [SPOILER UP TO 3RD BOSS FIGHT]
+65	Charles	Average	fightsticks : Input lag on the Fighting Edge PS4 version
+65	Jinnie	Popular	fightsticks : Input lag on the Fighting Edge PS4 version
+66	Charles	Popular	boxoffice : A Sequel to Top Gun is in the works. Thoughts?
+66	Jinnie	Popular	boxoffice : A Sequel to Top Gun is in the works. Thoughts?
+67	Charles	Popular	classicalmusic : Help me identify a piece?
+67	Jinnie	Popular	classicalmusic : Help me identify a piece?
+68	Charles	Popular	Construction : Where can I learn to read rebar shop drawings?
+68	Jinnie	Popular	Construction : Where can I learn to read rebar shop drawings?
+69	Charles	Average	badroommates : Possible Theft
+69	Jinnie	Average	badroommates : Possible Theft
+70	Charles	Popular	watercooling : PSA: Youtube personalities are there to be entertaining, not to provide you exhaustive testing or analysis.
+70	Jinnie	Average	watercooling : PSA: Youtube personalities are there to be entertaining, not to provide you exhaustive testing or analysis.
+71	Charles	Average	haskell : Dealing with Reader monad and functions of diferent number of arguments
+71	Jinnie	Average	haskell : Dealing with Reader monad and functions of diferent number of arguments
+72	Charles	Average	puppy101 : Introducing a 10 week corgi to 8 month corgi
+72	Jinnie	Average	puppy101 : Introducing a 10 week corgi to 8 month corgi
+73	Charles	Popular	SteamController : Non-Steam, Linux, and multi-PC use?
+73	Jinnie	Popular	SteamController : Non-Steam, Linux, and multi-PC use?
+74	Charles	Popular	sailing : Cruiser Rental Boston/new england? need to sail
+74	Jinnie	Popular	sailing : Cruiser Rental Boston/new england? need to sail
+75	Charles	Not popular	vikingstv : [NO SPOILERS] Looking for a song?
+75	Jinnie	Popular	vikingstv : [NO SPOILERS] Looking for a song?
+76	Charles	Popular	weezer : Am I the only one that really enjoys Holiday?
+76	Jinnie	Popular	weezer : Am I the only one that really enjoys Holiday?
+77	Charles	Average	BeardedDragons : Loud crunching/grinding noise while eating.
+77	Jinnie	Popular	BeardedDragons : Loud crunching/grinding noise while eating.
+78	Charles	Average	soccer : My idea for an European league
+78	Jinnie	Average	soccer : My idea for an European league
+79	Charles	Not popular	Stargate : Something I was thinking
+79	Jinnie	Not popular	Stargate : Something I was thinking
+80	Charles	Not popular	JustUnsubbed : Just unsubbed from r/DBZDokkanBattle/
+80	Jinnie	Average	JustUnsubbed : Just unsubbed from r/DBZDokkanBattle/
+81	Charles	Not popular	Magento : Customer Create Form - impossible??
+81	Jinnie	Not popular	Magento : Customer Create Form - impossible??
+82	Charles	Average	Cloud9 : "C9 lost to TSM so they would be worse...."
+82	Jinnie	Average	Cloud9 : "C9 lost to TSM so they would be worse...."
+83	Charles	Average	cfs : I hate living with chronic fatigue
+83	Jinnie	Average	cfs : I hate living with chronic fatigue
+84	Charles	Popular	SkincareAddiction : [Skin Concerns] Working as a metal fabricator and tiny pieces of metal are cutting my face up
+84	Jinnie	Popular	SkincareAddiction : [Skin Concerns] Working as a metal fabricator and tiny pieces of metal are cutting my face up
+85	Charles	Average	Malazan : Just finished TtH
+85	Jinnie	Average	Malazan : Just finished TtH
+86	Charles	Average	ConanExiles : Combat, mob aggro range, and bows. My feedback.
+86	Jinnie	Average	ConanExiles : Combat, mob aggro range, and bows. My feedback.
+87	Charles	Average	Volvo : 2012 c30 spoiler holding water
+87	Jinnie	Average	Volvo : 2012 c30 spoiler holding water
+88	Charles	Average	steinsgate : Follow the new season weekly or just binge in the end
+88	Jinnie	Average	steinsgate : Follow the new season weekly or just binge in the end
+89	Charles	Popular	cycling : What are some best value hybrid bikes $400-600 range?
+89	Jinnie	Popular	cycling : What are some best value hybrid bikes $400-600 range?
+90	Charles	Popular	French : Summer course in France - any suggestions?
+90	Jinnie	Popular	French : Summer course in France - any suggestions?
+91	Charles	Popular	EternalCardGame : Premium commons that look cooler than they should
+91	Jinnie	Average	EternalCardGame : Premium commons that look cooler than they should
+92	Charles	Average	Insurance : Renter's Insurance-Pipe broke in unit above and rained all over my apartment
+92	Jinnie	Average	Insurance : Renter's Insurance-Pipe broke in unit above and rained all over my apartment
+93	Charles	Average	quittingkratom : Already Feeling Mild WDs, Haven't Even Quit Yet.
+93	Jinnie	Average	quittingkratom : Already Feeling Mild WDs, Haven't Even Quit Yet.
+94	Charles	Popular	climbing : Hi climbers.. how do I get started?
+94	Jinnie	Popular	climbing : Hi climbers.. how do I get started?
+95	Charles	Not popular	absolver : A Smattering of n00b Questions
+95	Jinnie	Popular	absolver : A Smattering of n00b Questions
+96	Charles	Average	summonerswar : Please nerf Orion
+96	Jinnie	Average	summonerswar : Please nerf Orion
+97	Charles	Not popular	VoiceActing : Newbie needs advice!
+97	Jinnie	Not popular	VoiceActing : Newbie needs advice!
+98	Charles	Average	KissAnime : So about this Captcha
+98	Jinnie	Not popular	KissAnime : So about this Captcha
+99	Charles	Popular	solar : Question about battery swelling
+99	Jinnie	Popular	solar : Question about battery swelling
+100	Charles	Average	drums : Our Double-Sided Practice Pad
+100	Jinnie	Not popular	drums : Our Double-Sided Practice Pad
+101	Charles	Average	EvolveGame : Disappointing After-game Chat
+101	Jinnie	Average	EvolveGame : Disappointing After-game Chat
+102	Charles	Popular	camping : Noob question: how does check-in work? (Colorado)
+102	Jinnie	Popular	camping : Noob question: how does check-in work? (Colorado)
+103	Charles	Average	watch_dogs : Join dedsec question
+103	Jinnie	Not popular	watch_dogs : Join dedsec question
+104	Charles	Popular	Roku : Detect and control roku 3 playing netflix?
+104	Jinnie	Popular	Roku : Detect and control roku 3 playing netflix?
+105	Charles	Popular	muacjdiscussion : What is the least substitutable product in your routine?
+105	Jinnie	Popular	muacjdiscussion : What is the least substitutable product in your routine?
+106	Charles	Average	watch_dogs : Will the bounty hunt multiplayer mode work with any players or just friends?
+106	Jinnie	Average	watch_dogs : Will the bounty hunt multiplayer mode work with any players or just friends?
+107	Charles	Not popular	Stormlight_Archive : [TWoK]/[WoR]/[NO SPOILERS] Something that has been bothering for me for awhile. No spoilers.
+107	Jinnie	Not popular	Stormlight_Archive : [TWoK]/[WoR]/[NO SPOILERS] Something that has been bothering for me for awhile. No spoilers.
+108	Charles	Average	AutoHotkey : Having trouble with Ducky Shine 6 keyboard and AHK
+108	Jinnie	Average	AutoHotkey : Having trouble with Ducky Shine 6 keyboard and AHK
+109	Charles	Average	sailing : First Time PHRF Racing
+109	Jinnie	Not popular	sailing : First Time PHRF Racing
+110	Charles	Popular	uberdrivers : Passenger has new destination different from my destination filter
+110	Jinnie	Popular	uberdrivers : Passenger has new destination different from my destination filter
+111	Charles	Popular	Honda : Dealership or local shop for timing belt?
+111	Jinnie	Popular	Honda : Dealership or local shop for timing belt?
+112	Charles	Popular	git : [Question] Submodules vs Subtrees; What's the difference?
+112	Jinnie	Popular	git : [Question] Submodules vs Subtrees; What's the difference?
+113	Charles	Popular	SolidWorks : How to decide flow simulation parameters for centrifugal pump impeller?
+113	Jinnie	Popular	SolidWorks : How to decide flow simulation parameters for centrifugal pump impeller?
+114	Charles	Popular	MandelaEffect : Volkswagen Car/Logo found with no Gap, Thoughts?
+114	Jinnie	Popular	MandelaEffect : Volkswagen Car/Logo found with no Gap, Thoughts?
+115	Charles	Average	collapse : Further Evidence that the Paris Climate Accord is a Fraud
+115	Jinnie	Average	collapse : Further Evidence that the Paris Climate Accord is a Fraud
+116	Charles	Not popular	tall : New Height Forum
+116	Jinnie	Not popular	tall : New Height Forum
+117	Charles	Popular	duelyst : How much Gold have you saved?
+117	Jinnie	Popular	duelyst : How much Gold have you saved?
+118	Charles	Not popular	boxoffice : [NA] With $284,694,956 grossed in 2016, Star Wars: The Force Awakens is the #6 movie of 2016 in Calendar Gross so far.
+118	Jinnie	Not popular	boxoffice : [NA] With $284,694,956 grossed in 2016, Star Wars: The Force Awakens is the #6 movie of 2016 in Calendar Gross so far.
+119	Charles	Not popular	HFY : [OC] Dreamcatcher II
+119	Jinnie	Not popular	HFY : [OC] Dreamcatcher II
+120	Charles	Not popular	freemasonry : I miss DeMolay
+120	Jinnie	Average	freemasonry : I miss DeMolay
+121	Charles	Average	WWEChampions : Level Up Pack (20$) Are Missing
+121	Jinnie	Average	WWEChampions : Level Up Pack (20$) Are Missing
+122	Charles	Average	vertcoin : P2Pool mechanics question regarding shares, difficulty and dedicated vs part time rigs.
+122	Jinnie	Average	vertcoin : P2Pool mechanics question regarding shares, difficulty and dedicated vs part time rigs.
+123	Charles	Average	securityguards : What are some things that you look for on your patrols?
+123	Jinnie	Average	securityguards : What are some things that you look for on your patrols?
+124	Charles	Popular	thinkpad : Replacement trackpoint mouse buttons?
+124	Jinnie	Popular	thinkpad : Replacement trackpoint mouse buttons?
+125	Charles	Average	GirlsXBattle : Elite Sky Tower Floors 1-20
+125	Jinnie	Not popular	GirlsXBattle : Elite Sky Tower Floors 1-20
+126	Charles	Average	premiere : [Help] Premiere Pro's preview window is very laggy
+126	Jinnie	Popular	premiere : [Help] Premiere Pro's preview window is very laggy
+127	Charles	Average	Veterans : USAF Retired Job Search (cant find anything good)
+127	Jinnie	Popular	Veterans : USAF Retired Job Search (cant find anything good)
+128	Charles	Average	Undertale : Looking for a certain Youtube video that discussed each main character's specific failings
+128	Jinnie	Average	Undertale : Looking for a certain Youtube video that discussed each main character's specific failings
+129	Charles	Average	hamsters : Considering getting a Hamster. Want a bin cage, and need suggestions
+129	Jinnie	Average	hamsters : Considering getting a Hamster. Want a bin cage, and need suggestions
+130	Charles	Not popular	Epilepsy : Had a night time grand mal after almost a year. I am worried because I have been doing everything right up to this point.
+130	Jinnie	Not popular	Epilepsy : Had a night time grand mal after almost a year. I am worried because I have been doing everything right up to this point.
+131	Charles	Average	ynab : [nYNAB]Direct Import Won't Allow Me To Add Another Account At The Same Bank
+131	Jinnie	Popular	ynab : [nYNAB]Direct Import Won't Allow Me To Add Another Account At The Same Bank
+132	Charles	Average	premiere : The Audio is disappearing and I don't know why nor how to get it back
+132	Jinnie	Average	premiere : The Audio is disappearing and I don't know why nor how to get it back
+133	Charles	Average	cscareerquestions : Best path for a self-taught programmer
+133	Jinnie	Popular	cscareerquestions : Best path for a self-taught programmer
+134	Charles	Average	Stellar : How much of an impact does social media have on cryptos?
+134	Jinnie	Average	Stellar : How much of an impact does social media have on cryptos?
+135	Charles	Popular	asexuality : Do you ever doubt your sexuality?
+135	Jinnie	Popular	asexuality : Do you ever doubt your sexuality?
+136	Charles	Popular	AlphaBayMarket : Alphabay mnemonic is not wrong!!
+136	Jinnie	Popular	AlphaBayMarket : Alphabay mnemonic is not wrong!!
+137	Charles	Average	jewelry : Matte palladium wedding ring finish coming off...
+137	Jinnie	Not popular	jewelry : Matte palladium wedding ring finish coming off...
+138	Charles	Average	bladeandsoul : You can use pinchy-bombs to aircombo regardless of faction-outfit
+138	Jinnie	Average	bladeandsoul : You can use pinchy-bombs to aircombo regardless of faction-outfit
+139	Charles	Average	HollowKnight : Tips and strategies for the Grimme Troupe's final boss!
+139	Jinnie	Average	HollowKnight : Tips and strategies for the Grimme Troupe's final boss!
+140	Charles	Average	migraine : Increase in migraine frequency with Topamax
+140	Jinnie	Average	migraine : Increase in migraine frequency with Topamax
+141	Charles	Average	SCP : Interaction between Keter class SCPs and each other
+141	Jinnie	Average	SCP : Interaction between Keter class SCPs and each other
+142	Charles	Average	Corsair : Less than a week old K65 RGB messing up
+142	Jinnie	Popular	Corsair : Less than a week old K65 RGB messing up
+143	Charles	Popular	FORTnITE : Preset heros, or class-based customizable player?
+143	Jinnie	Popular	FORTnITE : Preset heros, or class-based customizable player?
+144	Charles	Popular	sales : Selling educational package tips - Help needed!
+144	Jinnie	Popular	sales : Selling educational package tips - Help needed!
+145	Charles	Not popular	TheExpanse : Help me visualize something
+145	Jinnie	Popular	TheExpanse : Help me visualize something
+146	Charles	Average	animation : {rev-share} I'm looking for a animator who can animate spells and skills on android &amp; ios
+146	Jinnie	Average	animation : {rev-share} I'm looking for a animator who can animate spells and skills on android &amp; ios
+147	Charles	Popular	RWBY : fanfic suggestion post sorted by pairings ?
+147	Jinnie	Popular	RWBY : fanfic suggestion post sorted by pairings ?
+148	Charles	Popular	logorequests : Looking for a logo for my comic shop!
+148	Jinnie	Popular	logorequests : Looking for a logo for my comic shop!
+149	Charles	Average	Tekken : Some questions about nina and playing with a controller.
+149	Jinnie	Popular	Tekken : Some questions about nina and playing with a controller.
+150	Charles	Average	flyfishing : Repairing wader seams
+150	Jinnie	Popular	flyfishing : Repairing wader seams
+151	Charles	Average	VietNam : Travelling North Vietnam with girlfriend for 3 weeks
+151	Jinnie	Average	VietNam : Travelling North Vietnam with girlfriend for 3 weeks
+152	Charles	Average	factorio : Need assistance with mod i'm maintaining
+152	Jinnie	Popular	factorio : Need assistance with mod i'm maintaining
+153	Charles	Average	backpacking : Backpacking Cuba, Belize and Guatemala
+153	Jinnie	Average	backpacking : Backpacking Cuba, Belize and Guatemala
+154	Charles	Popular	foreskin_restoration : How much skin is healthy anyway?
+154	Jinnie	Popular	foreskin_restoration : How much skin is healthy anyway?
+155	Charles	Average	kingdomcome : [suggestion for mods] We should have a stickied thread about pre-game release discussion
+155	Jinnie	Average	kingdomcome : [suggestion for mods] We should have a stickied thread about pre-game release discussion
+156	Charles	Popular	VisitingIceland : Vik to Akureyri, which road?
+156	Jinnie	Popular	VisitingIceland : Vik to Akureyri, which road?
+157	Charles	Average	StudentLoans : Help with emergency loans (x-post from r/college)
+157	Jinnie	Popular	StudentLoans : Help with emergency loans (x-post from r/college)
+158	Charles	Average	tdi : Got her ready to die
+158	Jinnie	Average	tdi : Got her ready to die
+159	Charles	Average	Incels : The funniest thing about the "Change your Personality" or "Become more assertive" advice
+159	Jinnie	Average	Incels : The funniest thing about the "Change your Personality" or "Become more assertive" advice
+160	Charles	Average	teenmom : kail and her jealousy of vee
+160	Jinnie	Not popular	teenmom : kail and her jealousy of vee
+161	Charles	Not popular	lotr : About the Numenoreans
+161	Jinnie	Not popular	lotr : About the Numenoreans
+162	Charles	Average	django : update_or_create is creating duplicates
+162	Jinnie	Popular	django : update_or_create is creating duplicates
+163	Charles	Average	fightsticks : Razer Panthera Artwork Print Cover Help
+163	Jinnie	Popular	fightsticks : Razer Panthera Artwork Print Cover Help
+164	Charles	Popular	Stoicism : How to use Stoicism to prevent self destructive behaviour?
+164	Jinnie	Popular	Stoicism : How to use Stoicism to prevent self destructive behaviour?
+165	Charles	Not popular	Harley : Mystery Rattle
+165	Jinnie	Not popular	Harley : Mystery Rattle
+166	Charles	Average	tall : 19 and grew a few cm last night
+166	Jinnie	Average	tall : 19 and grew a few cm last night
+167	Charles	Not popular	Wizard101 : Shadow Palace
+167	Jinnie	Not popular	Wizard101 : Shadow Palace
+168	Charles	Popular	funkopop : [Discussion] In Box vs Out of Box Collecting
+168	Jinnie	Popular	funkopop : [Discussion] In Box vs Out of Box Collecting
+169	Charles	Average	residentevil : Resident Evil 4 was the last "true" game in the series.
+169	Jinnie	Average	residentevil : Resident Evil 4 was the last "true" game in the series.
+170	Charles	Not popular	PCOS : NCAH or PCOS?
+170	Jinnie	Popular	PCOS : NCAH or PCOS?
+171	Charles	Average	MuayThai : Need Help Creating Small Workout / Need Critique
+171	Jinnie	Popular	MuayThai : Need Help Creating Small Workout / Need Critique
+172	Charles	Popular	ComicBookCollabs : UK Writer Looking For Comic Book Artist Best Friend
+172	Jinnie	Popular	ComicBookCollabs : UK Writer Looking For Comic Book Artist Best Friend
+173	Charles	Average	ExNoContact : (Venting) NC since Sunday but you keep popping up.
+173	Jinnie	Average	ExNoContact : (Venting) NC since Sunday but you keep popping up.
+174	Charles	Average	discgolf : Form check
+174	Jinnie	Not popular	discgolf : Form check
+175	Charles	Average	badroommates : Bully Turns To Remote Bullying
+175	Jinnie	Average	badroommates : Bully Turns To Remote Bullying
+176	Charles	Average	backpacking : Has anyone done offseason trekking in Patagonia (specifically the W trail in Torres Del Paine)?
+176	Jinnie	Average	backpacking : Has anyone done offseason trekking in Patagonia (specifically the W trail in Torres Del Paine)?
+177	Charles	Average	Swimming : My first months as a swimmer &amp; a few noob questions
+177	Jinnie	Average	Swimming : My first months as a swimmer &amp; a few noob questions
+178	Charles	Average	PoloniexForum : XMR Deposit never showed in poloniex account not even in history pending. Ticket #328503
+178	Jinnie	Average	PoloniexForum : XMR Deposit never showed in poloniex account not even in history pending. Ticket #328503
+179	Charles	Popular	cosplay : [Help] Is EZCosplay a good place to buy from?
+179	Jinnie	Popular	cosplay : [Help] Is EZCosplay a good place to buy from?
+180	Charles	Average	swrpg : What's with Rocket Boots.
+180	Jinnie	Not popular	swrpg : What's with Rocket Boots.
+181	Charles	Popular	AndroidAuto : Droid Turbo 2 - Android Auto Issues?
+181	Jinnie	Popular	AndroidAuto : Droid Turbo 2 - Android Auto Issues?
+182	Charles	Average	hiphopheads : DJ Quik is going to be on SportsCenter in the next 10-15 minutes
+182	Jinnie	Average	hiphopheads : DJ Quik is going to be on SportsCenter in the next 10-15 minutes
+183	Charles	Popular	guitars : [QUESTION] BEST PRACTICE AMP FOR METAL/ROCK ($150) BUDGET
+183	Jinnie	Popular	guitars : [QUESTION] BEST PRACTICE AMP FOR METAL/ROCK ($150) BUDGET
+184	Charles	Not popular	BDSMcommunity : "muscle riding"
+184	Jinnie	Average	BDSMcommunity : "muscle riding"
+185	Charles	Popular	Warframe : Wtf is up with doing this to new people?
+185	Jinnie	Popular	Warframe : Wtf is up with doing this to new people?
+186	Charles	Not popular	nin : After some family issues, I was feeling very angry and sad. A friend told me to check out Nine Inch Nails, specifically The Downwards Spiral. Here are my thoughts on it!
+186	Jinnie	Not popular	nin : After some family issues, I was feeling very angry and sad. A friend told me to check out Nine Inch Nails, specifically The Downwards Spiral. Here are my thoughts on it!
+187	Charles	Not popular	gridcoin : PSA: SRBase is out of work and has been for a while now. Make sure your compute is being put to use somewhere else.
+187	Jinnie	Not popular	gridcoin : PSA: SRBase is out of work and has been for a while now. Make sure your compute is being put to use somewhere else.
+188	Charles	Popular	civ : Founding cities with no water? [VI]
+188	Jinnie	Popular	civ : Founding cities with no water? [VI]
+189	Charles	Popular	Standup : How Do You Pay Your Rent While Grinding On The Comedy Scene?
+189	Jinnie	Average	Standup : How Do You Pay Your Rent While Grinding On The Comedy Scene?
+190	Charles	Average	math : Introduction to Topological Manifolds
+190	Jinnie	Average	math : Introduction to Topological Manifolds
+191	Charles	Average	Stargate : Something that always 'bugged' me...
+191	Jinnie	Not popular	Stargate : Something that always 'bugged' me...
+192	Charles	Not popular	Cricket : A letter to Steve Smith posted on cricket.com.au by an Australian father who took his boy to Cape Town, Day 3.
+192	Jinnie	Not popular	Cricket : A letter to Steve Smith posted on cricket.com.au by an Australian father who took his boy to Cape Town, Day 3.
+193	Charles	Average	snakes : Sand boa care
+193	Jinnie	Popular	snakes : Sand boa care
+194	Charles	Average	MrRobot : Question about last episode
+194	Jinnie	Popular	MrRobot : Question about last episode
+195	Charles	Average	ecommerce : How do I request an increase in my FB ad account limit?
+195	Jinnie	Average	ecommerce : How do I request an increase in my FB ad account limit?
+196	Charles	Average	Hue : A slight issue.
+196	Jinnie	Not popular	Hue : A slight issue.
+197	Charles	Average	SpaceXLounge : BFR Air pollution
+197	Jinnie	Average	SpaceXLounge : BFR Air pollution
+198	Charles	Popular	slp : When is a good time to rethink goals?
+198	Jinnie	Popular	slp : When is a good time to rethink goals?
+199	Charles	Average	snapchat : [META] Snapchat Support is not useful so I have to turn here for help.
+199	Jinnie	Popular	snapchat : [META] Snapchat Support is not useful so I have to turn here for help.
+200	Charles	Average	tarot : Inner turmoil, and an ominous reading. Interpretations wanted!
+200	Jinnie	Popular	tarot : Inner turmoil, and an ominous reading. Interpretations wanted!
+201	Charles	Not popular	bladerunner : Snow (spoilers)
+201	Jinnie	Not popular	bladerunner : Snow (spoilers)
+202	Charles	Popular	MomForAMinute : today I'm missing you.
+202	Jinnie	Not popular	MomForAMinute : today I'm missing you.
+203	Charles	Average	unrealengine : Missing '*' in Expected a pointer type
+203	Jinnie	Popular	unrealengine : Missing '*' in Expected a pointer type
+204	Charles	Not popular	GearsOfWar : Shafted
+204	Jinnie	Not popular	GearsOfWar : Shafted
+205	Charles	Average	needforspeed : so i'm frustrating with Ghost as rotary lover
+205	Jinnie	Average	needforspeed : so i'm frustrating with Ghost as rotary lover
+206	Charles	Average	bladeandsoul : New Blade Master, tips and etc. wanted
+206	Jinnie	Popular	bladeandsoul : New Blade Master, tips and etc. wanted
+207	Charles	Average	windows : Windows installation media cannot detect OS (x-post /r/TechSupport)
+207	Jinnie	Popular	windows : Windows installation media cannot detect OS (x-post /r/TechSupport)
+208	Charles	Average	powerrangers : An idea for a new ranger series...
+208	Jinnie	Popular	powerrangers : An idea for a new ranger series...
+209	Charles	Popular	NASCAR : Which driver's career did you predict most inaccurately?
+209	Jinnie	Popular	NASCAR : Which driver's career did you predict most inaccurately?
+210	Charles	Average	snowboarding : Discussion: Best Vail Resorts Mountain
+210	Jinnie	Popular	snowboarding : Discussion: Best Vail Resorts Mountain
+211	Charles	Popular	Kombucha : First time brewer: How long to let SCOBY grow?
+211	Jinnie	Popular	Kombucha : First time brewer: How long to let SCOBY grow?
+212	Charles	Popular	BoJackHorseman : Has anyone noticed this detail? [spoilers]
+212	Jinnie	Popular	BoJackHorseman : Has anyone noticed this detail? [spoilers]
+213	Charles	Popular	fatpeoplestories : Request: any stories about HAES and horse riding?
+213	Jinnie	Popular	fatpeoplestories : Request: any stories about HAES and horse riding?
+214	Charles	Popular	tattoo : Question on tattoo sharing
+214	Jinnie	Popular	tattoo : Question on tattoo sharing
+215	Charles	Popular	xxketo : Meal planning newbie - coaching or other recommendations?
+215	Jinnie	Popular	xxketo : Meal planning newbie - coaching or other recommendations?
+216	Charles	Average	backpacking : First time travelling to Sardinia in September, need advice on where to stay for a romantic vacation.
+216	Jinnie	Not popular	backpacking : First time travelling to Sardinia in September, need advice on where to stay for a romantic vacation.
+217	Charles	Average	3d6 : Help me optimise and fluff a Moonbow Warlock 5/ Mystic 15
+217	Jinnie	Average	3d6 : Help me optimise and fluff a Moonbow Warlock 5/ Mystic 15
+218	Charles	Popular	ABDL : Baby arts and crafts for your CG :D (ideas)
+218	Jinnie	Average	ABDL : Baby arts and crafts for your CG :D (ideas)
+219	Charles	Average	BDSMcommunity : how to stop topping from the bottom and achieve the dynamic we’re aiming for?
+219	Jinnie	Average	BDSMcommunity : how to stop topping from the bottom and achieve the dynamic we’re aiming for?
+220	Charles	Average	Dreams : Consciously sleepwalking
+220	Jinnie	Average	Dreams : Consciously sleepwalking
+221	Charles	Average	LineageOS : New ROM Error 7 on Oneplus one, twrp-3.2.1-0-bacon.img flashed
+221	Jinnie	Average	LineageOS : New ROM Error 7 on Oneplus one, twrp-3.2.1-0-bacon.img flashed
+222	Charles	Average	hamsters : my picky eater is getting a little too round
+222	Jinnie	Popular	hamsters : my picky eater is getting a little too round
+223	Charles	Average	Swimming : Sensitivity to Cooler Temperatures Out of the Pool
+223	Jinnie	Average	Swimming : Sensitivity to Cooler Temperatures Out of the Pool
+224	Charles	Average	gigantic : Gigantic Beta Key Redemption
+224	Jinnie	Average	gigantic : Gigantic Beta Key Redemption
+225	Charles	Average	TheOA : the other times OA and other captives die
+225	Jinnie	Average	TheOA : the other times OA and other captives die
+226	Charles	Popular	thesopranos : Did Dr Melfi get back together with her ex-husband?
+226	Jinnie	Popular	thesopranos : Did Dr Melfi get back together with her ex-husband?
+227	Charles	Average	StopGaming : I really need help. I am in a crisis and have no sense of purpose.
+227	Jinnie	Popular	StopGaming : I really need help. I am in a crisis and have no sense of purpose.
+228	Charles	Not popular	AlphaBayMarket : Post-Alphabay speculation: everyone should be extremely careful if AB does come back online, but vendors, VIP &amp; large amount purchasers should clean house anyway.
+228	Jinnie	Not popular	AlphaBayMarket : Post-Alphabay speculation: everyone should be extremely careful if AB does come back online, but vendors, VIP &amp; large amount purchasers should clean house anyway.
+229	Charles	Popular	netneutrality : Who are some Pro Net Neutrality Republicans?
+229	Jinnie	Popular	netneutrality : Who are some Pro Net Neutrality Republicans?
+230	Charles	Not popular	ArcherFX : Midnight Ron
+230	Jinnie	Not popular	ArcherFX : Midnight Ron
+231	Charles	Popular	solar : Question Regarding Distances Panels to Equipment
+231	Jinnie	Popular	solar : Question Regarding Distances Panels to Equipment
+232	Charles	Popular	APStudents : WTF are the curves this year?
+232	Jinnie	Popular	APStudents : WTF are the curves this year?
+233	Charles	Average	foreignservice : Indentation on the PNQs
+233	Jinnie	Average	foreignservice : Indentation on the PNQs
+234	Charles	Popular	Beekeeping : Any Chicago Beeks out there?
+234	Jinnie	Popular	Beekeeping : Any Chicago Beeks out there?
+235	Charles	Not popular	shrooms : Shrooms &amp; Animals
+235	Jinnie	Not popular	shrooms : Shrooms &amp; Animals
+236	Charles	Popular	theydidthemath : [Request] How fast was this car travelling?
+236	Jinnie	Popular	theydidthemath : [Request] How fast was this car travelling?
+237	Charles	Average	cemu : Hyrule Warriors: Update/Tested on what works and doesn't(100% save file)
+237	Jinnie	Not popular	cemu : Hyrule Warriors: Update/Tested on what works and doesn't(100% save file)
+238	Charles	Not popular	DBZDokkanBattle : 3rd Anniversary events
+238	Jinnie	Average	DBZDokkanBattle : 3rd Anniversary events
+239	Charles	Average	RocketLeague : When it's ranked doubles and we're up by 1 with less than ~30 seconds left, and I'm on the ball, please play defense
+239	Jinnie	Not popular	RocketLeague : When it's ranked doubles and we're up by 1 with less than ~30 seconds left, and I'm on the ball, please play defense
+240	Charles	Not popular	AlphaBayMarket : Nooby with Alphabay
+240	Jinnie	Popular	AlphaBayMarket : Nooby with Alphabay
+241	Charles	Average	guitarpedals : Complex toneprints questions - building TC Flashback toneprint with a separate reverb/chorus/delay
+241	Jinnie	Average	guitarpedals : Complex toneprints questions - building TC Flashback toneprint with a separate reverb/chorus/delay
+242	Charles	Not popular	Charity : Help my little easy to survive
+242	Jinnie	Popular	Charity : Help my little easy to survive
+243	Charles	Popular	SiliconValleyHBO : What would the cost of Gavin's stunt total to?
+243	Jinnie	Popular	SiliconValleyHBO : What would the cost of Gavin's stunt total to?
+244	Charles	Average	bioinformatics : Research with a BSc in CS
+244	Jinnie	Popular	bioinformatics : Research with a BSc in CS
+245	Charles	Popular	baseball : Where to find odd baseball stats?
+245	Jinnie	Popular	baseball : Where to find odd baseball stats?
+246	Charles	Not popular	Fibromyalgia : Need advice please help.
+246	Jinnie	Average	Fibromyalgia : Need advice please help.
+247	Charles	Popular	misophonia : My sister came home today and I haven't seen her in months, but she's a loud chewer. How do I tell her.
+247	Jinnie	Not popular	misophonia : My sister came home today and I haven't seen her in months, but she's a loud chewer. How do I tell her.
+248	Charles	Not popular	animation : Am I the only one who did this?
+248	Jinnie	Average	animation : Am I the only one who did this?
+249	Charles	Popular	madmen : Best books on Mad Men?
+249	Jinnie	Popular	madmen : Best books on Mad Men?

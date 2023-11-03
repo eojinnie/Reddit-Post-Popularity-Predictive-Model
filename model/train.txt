@@ -1,0 +1,300 @@
+id	annotator id	label	the original text
+6d8knd	adjudicated	Popular	talesfromtechsupport : Remember your command line switches...
+58mbft	adjudicated	Average	teenmom : So what was Matt "addicted" to?
+8f73s7	adjudicated	Not popular	Harley : No Club Colors
+6ti6re	adjudicated	Popular	ringdoorbell : Not door bell, but floodlight mount height.
+77sxto	adjudicated	Average	intel : Worried about my 8700k small fft/data stress results...
+5qw3x0	adjudicated	Popular	residentevil : What if Saddler won?
+7jve7p	adjudicated	Average	BATProject : Net Neutrality and Brave
+6icvfu	adjudicated	Not popular	hockeyplayers : Inline Hockey: Where Do I Need To Be? (Positioning)
+4y7c5c	adjudicated	Not popular	asmr : [Question] Who is your favorite defunct ASMRtist?
+6azhj1	adjudicated	Not popular	rawdenim : Had a custom embroidery job done on my ranch jacket by one of our own!
+4s2vgn	adjudicated	Popular	steinsgate : Questions to the end of the series and the movie
+85bh8r	adjudicated	Popular	DBZDokkanBattle : Is Fusion nullified for the Extreme Z Awakening Event?
+7jvsz7	adjudicated	Not popular	Nootropics : Why the hell does vitamin D give me anxiety?
+77u98k	adjudicated	Not popular	l5r : Release date Nov 10th?
+7i2bt4	adjudicated	Average	NameThatSong : Can anyone help me find this band?
+6zltab	adjudicated	Not popular	homeless : About to be homeless in LA,CA
+4zpvar	adjudicated	Popular	antidepressants : Sexual performance anxiety
+6wplz9	adjudicated	Popular	absolver : How do you build/organize your deck
+83z5kr	adjudicated	Popular	KissAnime : Randomly getting “Block Ads” warning on site?
+8kuivg	adjudicated	Average	sissyhypno : Regrets
+7lzl7l	adjudicated	Average	oculusnsfw : Pornstars you'd like to see in VR for 2018
+738l5l	adjudicated	Average	dpdr : 13 minute BBC film on DPDR
+6k5oct	adjudicated	Average	Garmin : Just bought a Forerunner 35 and I have a question about the Weather function!
+65x241	adjudicated	Average	dpdr : Instead of tackling my DPDR, i'm going to tackle my depression and anxiety first
+4srim7	adjudicated	Popular	AskLiteraryStudies : Recommend Interdisciplinary Lit Grad programs?
+7s86sh	adjudicated	Average	poetry_critics : My Feelings About a Shooting That Happened Behind my Building Last Night
+56bue7	adjudicated	Popular	skiing : New Banner
+5byyav	adjudicated	Average	shrimptank : Setting up a 10 gallon - what do I need?
+76x8pt	adjudicated	Popular	logorequests : [Logo] "Robin Cares" - Platform for finding a household help.
+62a6nu	adjudicated	Not popular	Stargate : Stargate Noob here: I have a question.
+7cafsz	adjudicated	Popular	foreskin_restoration : Huge layer of skin peeled off from glans
+8as9g2	adjudicated	Popular	sharepoint : Installation path in "Missing/required" SP2010
+8bx4nb	adjudicated	Average	synthesizers : Playing Synths in a Band: How to make yourself heard?
+55efs0	adjudicated	Not popular	gravityfalls : A thought about Stanley's memory being erased
+5d0mbj	adjudicated	Popular	androiddev : How do you come up with personal project ideas?
+77q5vb	adjudicated	Popular	Grimdawn : Vindicator 2h Ranged build
+6ht1be	adjudicated	Popular	driving : [UK] Name change before getting full license
+6pw9os	adjudicated	Average	FORTnITE : PSA: how to clear massive buildings quickly
+6gvxop	adjudicated	Popular	dndnext : Help with Ranged Battlemaster Maneuvers!
+55a1gw	adjudicated	Popular	Magic : John Bannon Product Advice Please
+5vrtom	adjudicated	Average	MtvChallenge : Am I the only Bananas fan on this forum?
+4xkak3	adjudicated	Popular	FoWtcg : Help rate beginning Faria deck??
+8dasa5	adjudicated	Not popular	harrypotter : Better idea for Fantastic beast adaptation?
+5p8r7a	adjudicated	Average	TryingForABaby : A bit confused / disappointed / first official introduction
+7vfotc	adjudicated	Popular	sewing : How do I get in contact with skilled seamstresses?
+72wfld	adjudicated	Popular	foxholegame : What vehicles would you like to see implemented?
+8ka4kl	adjudicated	Average	madmen : Most Underrated Scene? Drunk Ted Chaugh visiting Frank Gleason in the hospital (S6 E6)
+72i155	adjudicated	Not popular	JUSTNOMIL : Quick advice needed
+6m2s8d	adjudicated	Not popular	APStudents : AP Delay Code Explanation (Code 93)
+54esti	adjudicated	Popular	sharditkeepit : High Impact Scout for PvE
+7y4vht	adjudicated	Average	amateurradio : Setup mobile unit with battery power?
+4wwmeq	adjudicated	Not popular	sleeptrain : Nap training after sleep training
+6f88xs	adjudicated	Popular	fatpeoplestories : I made a fat woman into a sprinter
+5k6s8t	adjudicated	Average	GameStop : Weekly Ads Not Sending?
+7wy1vp	adjudicated	Average	scuba : Advice On 2nd Hand Drysuit
+5jolef	adjudicated	Average	Firefighting : Help writing story about volunteer firefighters
+5s0q8r	adjudicated	Not popular	Mustang : Roush vs Shleby GT500
+77fo25	adjudicated	Average	riverdale : Did the serpents overhear Hiram ?
+5jb0jo	adjudicated	Average	flying : What is required for getting your instrument rating?
+7eejro	adjudicated	Popular	bartenders : First time bartender, certification question.
+7npuy3	adjudicated	Average	scooters : Honda Lead won't start after rain
+6db0s0	adjudicated	Popular	trumpet : What is the most effective way to practice scales, arpeggios, and modes.
+8jz8dp	adjudicated	Not popular	projecteternity : Weapon Proficiencies for Soul Blade / Assassin?
+5vgjb6	adjudicated	Average	musictheory : App or website for specific metronome settings?
+4uv3g8	adjudicated	Average	factorio : Some help requested
+80f7ox	adjudicated	Average	SexToys : Glass Dildo
+5tmx2s	adjudicated	Popular	EternalCardGame : Gauntlet or ranked?
+8bndc4	adjudicated	Popular	PLC : Any experience with N-Tron managed switches?
+70ese0	adjudicated	Popular	sailing : Using Jib that is missing one piston hank?
+6cq0d3	adjudicated	Average	Mattress : Just bought a Purple mattress, is there any need to change from a boxspring to platform?
+63rd5p	adjudicated	Popular	climbing : Question about setting up top rope anchor
+8c3n0f	adjudicated	Average	uberdrivers : How am I supposed to improve my rating if I don’t know why I’m getting the ratings I’m receiving?
+6hzvxx	adjudicated	Average	Cloud9 : Jensen's new Soloq account?
+4vysfa	adjudicated	Popular	csharp : Trying to consume SOAP service with certificates etc... in VS2015.
+6brage	adjudicated	Popular	communism101 : Term for gradual specialization of tools?
+5dgi9o	adjudicated	Not popular	windowsphone : is Terraria working on Lumia 640?
+8f7265	adjudicated	Popular	AskAnthropology : Classical Archaeology and Culture History
+53cc2r	adjudicated	Average	secretsanta : Feature Request: Ability to have a different name on each exchange or have the exchange name on the shipping label.
+5z3405	adjudicated	Average	Volkswagen : 2001 Golf Wagon looking for some insight
+6q0u46	adjudicated	Not popular	BigBrother : Was it a good idea for _____ to do what they did?
+64eshp	adjudicated	Average	logorequests : [PAID] $50 to create a simple vector logo
+4wjq4k	adjudicated	Not popular	osugame : Training Fingers
+5vjxmm	adjudicated	Popular	spartanrace : Arizona Spartan Saturday Detour
+6j08ep	adjudicated	Average	needforspeed : Changing how the cars sounds when you change the exhaust in NFS2015.
+65l1c9	adjudicated	Popular	Cruise : Cruise to Caribbeans
+7qv79w	adjudicated	Average	blackmirror : Black Mirror Shut Up And Dance (S3 E3) made me think...
+6hkeeo	adjudicated	Average	China : Samsung phones on China flights
+5tsbed	adjudicated	Average	asmr : [request] I want to learn about the deep state from a soothing voice
+8071tw	adjudicated	Average	resumes : Need some help with my resume - moving in 6 weeks
+53589z	adjudicated	Popular	homeassistant : Fibaro Motion Sensor Automation Help
+7i7t2e	adjudicated	Popular	starcraft : Want to play SC2 for charity with co-workers? Join the After Hours Gaming League (registration opens today)
+54yzed	adjudicated	Popular	Cubers : Prizes for Comps, starting with the current one, #200!
+87422m	adjudicated	Average	Cruise : OBC uses?
+7edxhd	adjudicated	Average	Warframe : so question about how useful zaw's are.
+5ypvql	adjudicated	Popular	Professors : I'm a librarian and "instructor" at a community college with a few baccalaureate programs. How should students address me?
+7iscbn	adjudicated	Not popular	parrots : Conure just dropped a strange looking feather.
+67aswx	adjudicated	Average	TOR : Tor on fedora 25?
+8jgbv8	adjudicated	Not popular	AvPD : Someone Should Know
+72cd93	adjudicated	Average	Landlord : [Landlord-OH] Creative Tax Write Offs
+8f405u	adjudicated	Popular	WhiteWolfRPG : [VTM] Looking for a ritual
+84raa9	adjudicated	Average	DBS_CardGame : Mafuba v Overealm
+8hj8xi	adjudicated	Average	atheism : Mother of my step brother (age 8) "found god"...I don't want him to get indoctrinated. Help
+5pmaho	adjudicated	Popular	buffy : Just finished it with first time watcher
+6xu80a	adjudicated	Not popular	absolver : Staggerstyle a bit too ... much?
+5vwsq4	adjudicated	Popular	Shoplifting : Getting caught at Best Buy
+7p5mpl	adjudicated	Popular	reddeadredemption : John Marston in RDII Is guaranteed
+4motnn	adjudicated	Average	germany : Need help applying to a university (master's degree) in Germany.
+5xsd7t	adjudicated	Not popular	Schizoid : How do you deal with your abandonment depression?
+5p473j	adjudicated	Average	Nanny : Mo' duties mo' money - trying to combat job creep
+63kb0n	adjudicated	Not popular	WWEChampions : Getting tokens to go from 2 star gold to 3 star
+6j5hcy	adjudicated	Average	MMA : For the past few years I have been hearing how Aaron Pico is the next up and coming GOAT, but I cannot find any Boxing or MMA video proof.
+61b0mq	adjudicated	Popular	MSLGame : L/D Healer &amp; D Venus evo3
+8f5mt2	adjudicated	Popular	French : Online french 5 course for high school credit?
+6ci52d	adjudicated	Popular	cosplay : [HELP] I'm a 22 year old 6'2 brown haired guy, and I need help figuring out what my first cosplay should be.
+6buffv	adjudicated	Popular	musictheory : Chord progression confusion
+6ijla0	adjudicated	Average	sugarlifestyleforum : my first sugar daddy dating experience thus far and a question
+4vwy6q	adjudicated	Not popular	PHPhelp : Overloading __sleep() method conflicts from traits
+8imlz1	adjudicated	Popular	WarhammerCompetitive : Question on how "end of phase abilities work" - Thousand Sons Specific
+6t1y7u	adjudicated	Not popular	Iota : Iota lost in transition - light wallet 2.4 frozen after connection failed
+7hse3b	adjudicated	Not popular	CryptoKitties : Are all the Gen 0's really going to be worth $315,000,000?
+5ur3dt	adjudicated	Popular	snakes : Possible Splinter
+71l2u8	adjudicated	Average	APStudents : Tips on managing AP Courses
+82ebfq	adjudicated	Average	germany : Is the Hamburg University of Applied Sciences a good start for a career in IT?
+56hg6b	adjudicated	Average	securityguards : "Xenomorph" alien, Predator, or arachnid (Starship Troopers)?
+7rt3wl	adjudicated	Popular	Hue : Use Philips Dimmer along with Ikea Remote?
+75o8q6	adjudicated	Not popular	Costco : When is my vacation time accessible?
+5uv25p	adjudicated	Average	IASIP : Sunny moments that took a few rewatches to appreciate?
+76iitw	adjudicated	Average	parrots : How do you settle down your busy bird?
+6lcwea	adjudicated	Average	tacobell : A genie grants your wish and the Volcano menu/Baja sauce are brought back but...
+81w2xr	adjudicated	Average	jewelry : company/brand suggestions to buy a good quality necklace+letter charm?
+4vqtfq	adjudicated	Not popular	EmulationOnAndroid : [Help] DraStic screen size issue even though i bought it
+6qxejx	adjudicated	Average	Rabbits : New rabbit gift shop...opening soon!
+5s4p0j	adjudicated	Average	thesims : How do I completely stop the game from making new sims unless it's totally necessary?
+8c2s63	adjudicated	Average	spartanrace : Ideas for what to do while in Hawaii for the trifecta weekend?
+6gygi1	adjudicated	Average	dresdenfiles : (No Spoilers) Preview of Peace Talks
+7dlam9	adjudicated	Popular	Hunting : I took my first unethical shot today and didn't retrieve
+7v4igm	adjudicated	Popular	MoviePassClub : Letterboxd account share thread
+818bkp	adjudicated	Average	TowerofGod : Jinsung Ha vs Evankhell
+7mv3tg	adjudicated	Average	Allergies : How do I communicate to my doc that I'm allergic to iodine-based dye?
+7kquk8	adjudicated	Average	snapchat : 24 [M4A]
+7zb46z	adjudicated	Popular	nanocurrency : NANO holders I salute you. Big things coming.
+666srw	adjudicated	Average	WhiteWolfRPG : Creating Dracula... as a Strix?
+7eaqf1	adjudicated	Popular	Veterans : Advice for convincing the VA to award me VocRehab for a masters
+7kvfxr	adjudicated	Popular	CaptainTsubasaDT : "Skip Matchup Animations". What's that supposed to skip?
+6pri7i	adjudicated	Popular	Anarchism : local counter-info projects?
+679wzr	adjudicated	Not popular	indonesia : Chatbot for LINE, ask feedback
+7illjs	adjudicated	Average	horror : Please help me..
+88yc3w	adjudicated	Popular	malaysia : I wish we could do more for disabled people especially those with down syndrome
+4zurmb	adjudicated	Popular	theydidthemath : [Request] Snapchat Voters
+6pyhpu	adjudicated	Average	fleshlight : Looking for a new purchase, tried the FL Pink Lady and the Tenga Flip White, its been years...what next?
+5ub4vc	adjudicated	Average	AcademicPsychology : Advice for getting experience for a Master's in School Psychology?
+54760a	adjudicated	Average	productivity : Alternatives to Yammer?
+7k7j9k	adjudicated	Average	LinkinPark : Chester and Sharp Edges
+728ipl	adjudicated	Average	fatestaynight : Class Cards, in unusual instances.
+7p4egk	adjudicated	Popular	kucoin : Anyone else think the site is dog-shit?
+7szgfp	adjudicated	Average	excel : [Google Sheets] Finding Earnings by Multiplying a Duration by a Wage
+80a2dp	adjudicated	Popular	tea : How do you like to brew wuyi (yancha)?
+7hj2hv	adjudicated	Average	turning : Need gift idea help (x-post from r/woodworking)
+6r2wse	adjudicated	Average	UnresolvedMysteries : [Request] Are there any (un)resolved mysteries write-ups/personal accounts similar to the one of the Death Valley Germans?
+6omr9s	adjudicated	Average	diabetes : Anyone know how to connect a minimed 630G and contour next link? I'm having problems...
+7ybfz2	adjudicated	Not popular	eczema : Help, please, I’m so depressed
+5pk9ux	adjudicated	Not popular	whatsthisworth : I have this melodeon/pump organ in my basement.
+737hcy	adjudicated	Average	DBZDokkanBattle : LR Goku and Vegeta (Idea)
+5e00zx	adjudicated	Average	westworld : Can someone explain to me the two timelines and "Teams"?
+81uoka	adjudicated	Popular	thewalkingdead : AMC survey question contains a spoiler
+8jwq7u	adjudicated	Not popular	docker : Triying to run Odoo with docker, with all the data in volumes, server going down!
+8n61ny	adjudicated	Average	xxfitness : Glutes not growing
+6reobc	adjudicated	Not popular	emojipasta : Sit 🛋 down honey 😗
+7tcq7i	adjudicated	Popular	synology : DSM6 - White login page after changing home router
+694fyg	adjudicated	Average	puppy101 : Potty training regression...sort of
+7npego	adjudicated	Not popular	Libraries : Library Youtube Channel.
+6p0rza	adjudicated	Average	dji : Talk me out of buying a Mavic Pro
+6d9hl8	adjudicated	Popular	survivor : Interesting fact about Cirie [SPOILERS!]
+7066bu	adjudicated	Average	MoviePassClub : First time using Moviepass
+6idz3r	adjudicated	Average	muacjdiscussion : Products you like but the company doesn't promote it
+652ls4	adjudicated	Average	fatpeoplestories : Froyo "friend"
+779u7z	adjudicated	Average	GMAT : Is there a way to extend the MGMAT access?
+7duumh	adjudicated	Average	DunderMifflin : Creed
+5y5sjb	adjudicated	Average	bigboobproblems : I found bra heaven today &lt;3 (United States only, I think)
+74dj5l	adjudicated	Popular	LDESurvival : Idea for spending skill points
+8i8eth	adjudicated	Average	discgolf : Improving your mental game? How do you change your mental game for tournaments/competitive rounds?
+7pbpt1	adjudicated	Popular	Dreams : Strange Dream About The Government Literally Killing Us All
+4vv0jd	adjudicated	Average	headphones : DT-770 not what I'm looking for, is the M-50x better?
+8m782o	adjudicated	Popular	StudentLoans : Advice needed: Autopay surprise (I am desperate please help!)
+563pat	adjudicated	Average	bourbon : I wanted to thank the community
+5cupu5	adjudicated	Popular	Geosim : [Event] New Zealand updates building codes in light of recent earthquakes
+7usjgc	adjudicated	Not popular	Plumbing : Vent stack clog?
+7bizib	adjudicated	Not popular	ptsd : Operating in Fight Flight or Freeze Mode - How to break that?
+64mi5q	adjudicated	Popular	lawschooladmissions : Going to law school with spouse
+8bj739	adjudicated	Average	greysanatomy : Does your S/O make comments about the show/or tease you about it?
+6h3jyj	adjudicated	Average	PrettyLittleLiars : Where the fuck is Toby?
+66hew3	adjudicated	Popular	survivor : How we got tricked by the editors
+6rmm3q	adjudicated	Not popular	AlphaBayMarket : Vendor disappeared after making a promise, surprise surprise
+5oatnv	adjudicated	Average	Snus : Topsnus delivery time
+7ba4lr	adjudicated	Average	TheExpanse : Does Marco Inaros' plan make sense?
+89trv3	adjudicated	Average	Miscarriage : Miscarrying and trying to decide on job offers at the same time. How to support husband who is suffering too.
+866i7g	adjudicated	Average	Eve : Streaming and ISK give-away rules?
+8cii68	adjudicated	Average	Hunting : Thoughts on the Bear Cruzer as a first bow?
+5edx0f	adjudicated	Popular	uscg : Couple of questions about joining USCG
+4p2iz1	adjudicated	Average	fakeid : scannable order still not verified!!!!
+5e5pf7	adjudicated	Average	drumcorps : Elitist vs Atmosphere in a Drum Corps
+6r08me	adjudicated	Not popular	wacom : Wacom sent my repaired tablet to wrong address...
+6x7yjc	adjudicated	Average	SonyXperia : Not comfortable waiting any longer for a Broadpwn fix on my current phone. XZ Premium or XZ1? (US)
+4qo8qz	adjudicated	Average	vexillology : Inspired by r/RightActionEvilEye's Slovenian post .. Croatian flag ..
+5cryj5	adjudicated	Not popular	formula1 : Max in the rain reminds me of Jos in the rain
+782vp1	adjudicated	Average	animation : Character Animation Showreel
+7thhxo	adjudicated	Average	digitalnomad : Working remotely from Indonesia, Legally
+6jg4bc	adjudicated	Average	graphic_design : Typekit alternatives for local and web
+6ud2wj	adjudicated	Average	VisitingIceland : Is Buri cave open and accessible without a guide?
+6lxeq8	adjudicated	Popular	climbing : Taking a break from climbing is probably the best thing I've done for my climbing ability.
+6p4hqt	adjudicated	Popular	widowers : When do you take your ring off?
+7skj4e	adjudicated	Popular	tabletopgamedesign : Playtesting and Game Balance
+4zh252	adjudicated	Popular	cats : Stray kitten
+7wdcps	adjudicated	Popular	RocketLeague : [Survey] Season 6 rank vs. total in game time
+766eyi	adjudicated	Popular	GirlsXBattle : Just being honest...
+56vfhk	adjudicated	Popular	techsupport : Terrible WiFi in ONE room of the house.
+71j91n	adjudicated	Average	woodworking : I got thousands of identical wooden cubes, what can I do with them?
+88xy7s	adjudicated	Average	vexillology : Could someone create a Bolivarian-Baathist Flag for a country or political party?
+8andb9	adjudicated	Popular	AutoModerator : Set up AutoMod to only allow crossposts (no other links or self posts) from a whitelist of subreddits, and apply flair based on the linked subreddit?
+60wfjc	adjudicated	Average	yandere_simulator : Questions for Dev
+7csow0	adjudicated	Average	ABraThatFits : [Recommendations] 31 weeks pregnant, sized out of my favorite bra (pre-preggo size 32G/34FF, now measuring 38H/HH)
+6ty5fm	adjudicated	Average	HotPeppers : Looking to start growing peppers with just hydroponics
+55wmcm	adjudicated	Average	yoga : How to avoid calves cramping when doing Purvottanasana?
+8mj5rf	adjudicated	Average	starcraft : New Terran player question on loading medivacs.
+6ejhdi	adjudicated	Average	Hunting : Sentimental Gander Mountain Rambling
+6yq5b6	adjudicated	Average	hookah : 4 hose hookah advise
+87xij9	adjudicated	Popular	guitars : Need Some Advice on Some Gear
+623isf	adjudicated	Average	weddingplanning : Under the dress
+55gahf	adjudicated	Not popular	tea : Gongfu tea types and brewing
+4tat4a	adjudicated	Popular	biology : Popular Science Book Recommendations
+79rgvk	adjudicated	Not popular	PlasticSurgery : How has your surgery affected your self confidence?
+4qyyll	adjudicated	Popular	obs : Can I stream with 2mbps upload speed?
+8jg941	adjudicated	Popular	GodofWar : Just got the game and WOW!
+64f428	adjudicated	Average	AstralProjection : Feelings/Sensations while Attempting AP
+4web7a	adjudicated	Popular	malehairadvice : Not sure if this is the right place, but I'm balding at 20, and wanted to get your feedback on how to improve myself/my face appearance for shaving my head. (Pics below) Thanks, guys!
+7tz7rw	adjudicated	Not popular	TalesFromThePizzaGuy : "IM AN UBER DRIVER, HE NEEDS TO SLOW DOWN!"
+7mh0ye	adjudicated	Popular	boxoffice : [International] Predictions for Jumanji in China!!!
+8dswd7	adjudicated	Average	kingdomcome : Tbh guys. Im getting kinda bored.
+4tt4vm	adjudicated	Average	TheSimpsons : Are some episodes genuinely "rarer" than others?
+5qv4va	adjudicated	Not popular	yoga : Comparing mats for hot yoga and need advice
+5eqagw	adjudicated	Not popular	beards : Pulled out beard hair - grew back grey - why?
+5kxjtn	adjudicated	Average	volleyball : Scoring System Explained?
+4ydkib	adjudicated	Average	tarot : How to interpret a positive card in a negative position of a spread?
+7xk8fd	adjudicated	Popular	atheism : Any ex-catholics here still like to participate in lent?
+7jui9l	adjudicated	Average	Epilepsy : I stopped a seizure last night! (I also may have triggered it though?)
+59ql10	adjudicated	Popular	italy : Learned about Zona Traffico Limitato too late . . .
+5nxbgf	adjudicated	Not popular	techsupport : Monitor mains integrated graphics instead of GTX 960M
+6d77cl	adjudicated	Popular	SiliconValleyHBO : An opinion on Season 4
+7yd6kv	adjudicated	Average	codes : Group chat "secret language"
+74j0fl	adjudicated	Popular	TokyoGhoul : From a pragmatic standpoint human-ghoul peace is very plausible.
+7d945h	adjudicated	Average	pregnant : 35 weeks and 3days:-)
+85oz06	adjudicated	Popular	badroommates : Roommate tried to lock me out of the house
+7n812h	adjudicated	Average	foreskin_restoration : Telling my partner about FR
+7waqfs	adjudicated	Not popular	Cloud9 : Am I the only one disappointed by the Boston Major t-shirt?
+604b5t	adjudicated	Average	sailing : Sailing in the med this summer with two absolute beginners. I only just got my Day Skipper last year
+7x1m0t	adjudicated	Popular	Ghosts : Communication With A Ghost?
+6btvwa	adjudicated	Not popular	redditdev : Adding my own config options - where to do it and how to read them
+66bl6j	adjudicated	Popular	thewalkingdead : [COMIC] Something I realized with my friends and the series...
+7fxda1	adjudicated	Popular	DestructiveReaders : [1621] Figs
+4rmh1k	adjudicated	Average	tea : Introduction to Tea
+5kv2wm	adjudicated	Popular	Shadowverse : Question about the iOS link suspension debacle
+7dcsa9	adjudicated	Popular	Nest : Nest Secure compatable with current wired system?
+7yyz7o	adjudicated	Popular	vmware : Upload status
+8jy6n3	adjudicated	Average	foreignservice : Language Bonus
+7wfy8p	adjudicated	Popular	Kava : Repost, fixed mistake. Looking for recommendations on where to get a good sample pack of kava
+74qrl6	adjudicated	Average	scuba : Gas blending question
+5xpvak	adjudicated	Average	Parahumans : Looking for 1-2 players for Worm Campaign
+6v7ury	adjudicated	Average	cycling : Car or Bike?
+72h55i	adjudicated	Popular	knifeclub : Help! Folks with an Edge Pro Apex please help!
+6yclhu	adjudicated	Not popular	MBA : [Profile Review] 24M, Marketing, 3.3 GPA
+7df18v	adjudicated	Average	Lexus : IS 250 Coolant Flush/Change
+5el3a6	adjudicated	Average	rails : Structuring rails applications
+65tl1x	adjudicated	Average	adventuretime : Everybody should read the Enchiridion/ Marcy's Super Secret Scrapbook
+7fbro6	adjudicated	Average	cancer : Seeking advice for my mom with stage 4 pancreatic cancer.
+64nsl8	adjudicated	Popular	Naruto : How much of Narutos KCM training with Bee is filler?
+62vbs4	adjudicated	Average	WayfarersPub : [Event] "What the fuck is going on?"
+67jsma	adjudicated	Not popular	lacrosse : Cascade R vs CPXR
+7d9qwf	adjudicated	Popular	Fencing : Foil Build and balancing
+51usnl	adjudicated	Average	csshelp : How to make all posts same size?
+7s0mi7	adjudicated	Not popular	DigimonLinkz : [Rant]wtf bandai..screw you
+8erp9q	adjudicated	Average	Meditation : Benefits noticed on just 3 days report.
+6c6w13	adjudicated	Average	genderqueer : Questioning and feeling like a phony
+7aekpi	adjudicated	Popular	aznidentity : Getting Woke may have had more negative consequences than positive for me...
+5emziv	adjudicated	Average	shortscarystories : The Thanksgiving Guest [Thanksgiving 2016]
+78co9u	adjudicated	Popular	l5r : This Game has no Middle Ground.
+4rf0x1	adjudicated	Average	zootopia : How do you rank Zootopia among your favorite films?
+5tpve8	adjudicated	Average	volt : Gen1 mpg w/ dead battery?
+5tvlqn	adjudicated	Average	churning : Virgin Loft at LAX closing in May
+4p38k5	adjudicated	Average	starbucks : how commonly does starbucks hire teens?
+4rjnfi	adjudicated	Average	Rowing : What's a good 2k erg time?
+4quh6q	adjudicated	Popular	lifeisstrange : [EP5 SPOILERS] I had one of what I presume to be the biggest twists in the series spoiled for me
+5dsj3g	adjudicated	Popular	lawofattraction : How can i use lOA in my new job?
+7grtme	adjudicated	Popular	Lineage2Revolution : Blue Diamonds
+5j13vf	adjudicated	Average	drums : Considering getting this older Gretsch USA and was hoping to get a different opinion
+810n52	adjudicated	Popular	BATProject : How will BAT combat ad fraud and ad safety?
+6et1r4	adjudicated	Popular	Tekken : Best King players to learn from?
+4sjpmm	adjudicated	Popular	Warframe : I think my biggest complaint about SOTR would be the Void Trace Cap.
+739ttq	adjudicated	Not popular	awardtravel : Customs at JFK
+88clji	adjudicated	Average	tipofmypenis : Stormy Daniels ad?
